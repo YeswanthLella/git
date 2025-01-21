@@ -1,1 +1,1 @@
-printf("on git")
+printf("laka laka laka")
